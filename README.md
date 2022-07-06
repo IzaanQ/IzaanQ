@@ -2,14 +2,14 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=IzaanQ&show_icons=true"/>](https://github.com/IzaanQ/)
 
-<a href="https://www.linkedin.com/in/kazi-amit-hasan/">
+<a href="https://www.linkedin.com/in/izaan-qaiser-82b32b204/">
   <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/AmitHasanShuvo">
   <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber">
-  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://img.icons8.com/material-outlined/24/000000/gmail-new.png" />
 </a>
 
 <a href="https://www.kaggle.com/amithasanshuvo">
@@ -30,5 +30,5 @@
 - Actively looking for University Research Assistant Positions
 - I'm currently learning Python from Dr. Angela Yu's "100 Days of Python Course"!
 
- [LinkedIn](https://www.linkedin.com/in/izaan-qaiser/), [Email](izaanqaiser05@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/izaan-qaiser-82b32b204/), [Email](izaanqaiser05@gmail.com)
 

@@ -26,7 +26,7 @@
 - 📚 I'm currently learning Python from Dr. Angela Yu's "100 Days of Python Course"!
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
  [LinkedIn](https://www.linkedin.com/in/izaan-qaiser-82b32b204/), [Email](izaanqaiser05@gmail.com)

@@ -1,4 +1,4 @@
-## Hey there!
+## Hey there! 👋
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=IzaanQ&show_icons=true"/>](https://github.com/IzaanQ/)
 
@@ -25,10 +25,10 @@
 #### I'm a 16 year old iOS Developer at Apple x One Wave Hub!
 #### *I'm working my hardest to be a Software Engineering Student at the University of Waterloo!*
 ## Some more about me:
-- Learning Swift and App Development on iOS Devices
-- Managing a startup company to optomise global telecommunications
-- Actively looking for University Research Assistant Positions
-- I'm currently learning Python from Dr. Angela Yu's "100 Days of Python Course"!
+🔥 Learning Swift and App Development on iOS Devices
+📫 Managing a startup company to optomise global telecommunications
+🔭 Actively looking for University Research Assistant Positions
+📚 I'm currently learning Python from Dr. Angela Yu's "100 Days of Python Course"!
 
  [LinkedIn](https://www.linkedin.com/in/izaan-qaiser-82b32b204/), [Email](izaanqaiser05@gmail.com)
 

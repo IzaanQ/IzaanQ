@@ -29,5 +29,3 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 
- [LinkedIn](https://www.linkedin.com/in/izaan-qaiser-82b32b204/), [Email](izaanqaiser05@gmail.com)
-

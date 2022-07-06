@@ -1,4 +1,4 @@
-## Hey there! 👋
+# Hey there! 👋
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=IzaanQ&show_icons=true"/>](https://github.com/IzaanQ/)
 
@@ -27,5 +27,3 @@
 
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-

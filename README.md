@@ -28,8 +28,7 @@
 - Learning Swift and App Development on iOS Devices
 - Managing a startup company to optomise global telecommunications
 - Actively looking for University Research Assistant Positions
-- **Latest Publication**: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets *(Accepted in TENSYMP 2020)*
+- I'm currently learning Python from Dr. Angela Yu's "100 Days of Python Course"!
 
 **To know more:**  [Website](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)
 
-Check the repositories section to see my efforts! Hope, you will enjoy it!

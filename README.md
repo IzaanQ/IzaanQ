@@ -24,9 +24,10 @@
 ## It's me! Izaan Qaiser.
 #### I'm a 16 year old iOS Developer at Apple x One Wave Hub!
 #### *I'm working my hardest to be a Software Engineering Student at the University of Waterloo!*
-- Data Science and research enthusiast.
-- A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
-- Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
+## Some more about me:
+- Learning Swift and App Development on iOS Devices
+- Managing a startup company to optomise global telecommunications
+- Actively looking for University Research Assistant Positions
 - **Latest Publication**: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets *(Accepted in TENSYMP 2020)*
 
 **To know more:**  [Website](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)

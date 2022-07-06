@@ -19,6 +19,7 @@
 #### I'm a 16 year old iOS Developer at Apple x One Wave Hub!
 #### *I'm working my hardest to be a Software Engineering Student at the University of Waterloo!*
 ## Some more about me:
+
 - 🔥 Learning Swift and App Development on iOS Devices
 - 📫 Managing a startup company to optomise global telecommunications
 - 🔭 Actively looking for University Research Assistant Positions

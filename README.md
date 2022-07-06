@@ -12,12 +12,6 @@
   <img align="left" alt="Shuvo's YouTube" width="15px" src="https://img.icons8.com/material-outlined/24/000000/gmail-new.png" />
 </a>
 
-<a href="https://www.kaggle.com/amithasanshuvo">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.researchgate.net/profile/Kazi_Amit_Hasan">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
-</a>
 <br />
 
 
@@ -25,10 +19,11 @@
 #### I'm a 16 year old iOS Developer at Apple x One Wave Hub!
 #### *I'm working my hardest to be a Software Engineering Student at the University of Waterloo!*
 ## Some more about me:
-🔥 Learning Swift and App Development on iOS Devices
-📫 Managing a startup company to optomise global telecommunications
-🔭 Actively looking for University Research Assistant Positions
-📚 I'm currently learning Python from Dr. Angela Yu's "100 Days of Python Course"!
+
+- 🔥 Learning Swift and App Development on iOS Devices
+- 📫 Managing a startup company to optomise global telecommunications
+- 🔭 Actively looking for University Research Assistant Positions
+- 📚 I'm currently learning Python from Dr. Angela Yu's "100 Days of Python Course"!
 
  [LinkedIn](https://www.linkedin.com/in/izaan-qaiser-82b32b204/), [Email](izaanqaiser05@gmail.com)
 

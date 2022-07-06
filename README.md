@@ -30,5 +30,5 @@
 - Actively looking for University Research Assistant Positions
 - I'm currently learning Python from Dr. Angela Yu's "100 Days of Python Course"!
 
-**To know more:**  [Website](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/izaan-qaiser/), [Email](izaanqaiser05@gmail.com)
 

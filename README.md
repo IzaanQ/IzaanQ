@@ -5,10 +5,10 @@
 <a href="https://www.linkedin.com/in/izaan-qaiser-82b32b204/">
   <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AmitHasanShuvo">
+<a href="https://github.com/IzaanQ">
   <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber">
+<a href="izaanqaiser05@gmail.com">
   <img align="left" alt="Shuvo's YouTube" width="15px" src="https://img.icons8.com/material-outlined/24/000000/gmail-new.png" />
 </a>
 

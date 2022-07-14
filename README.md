@@ -15,7 +15,7 @@
 <br />
 
 
-## It's me! Izaan Qaiser.
+## My name is Izaan Qaiser.
 #### I'm a 16 year old iOS Developer at Apple x One Wave Hub!
 #### *I'm working my hardest to be a Software Engineering Student at the University of Waterloo!*
 ## Some more about me:

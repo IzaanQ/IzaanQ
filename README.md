@@ -17,7 +17,7 @@
 
 ## My name is Izaan Qaiser.
 #### I'm a 17 Year Old Student studying Engineering and Computer Science at MDHS!
-#### *My dream is to be a Software Engineering Student at the University of Waterloo!*
+#### *My dream is to be a Computer Engineering Student at the University of Waterloo!*
 ## Some more about me:
 
 - 🔥 I love learning about programming topics and applying them to my life
